@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mallika</h1>
 
 # 💫 About Me:
-💻 Software Engineer with 1.5+ years of experience in Java, Spring Boot, React and AWS<br>🎓 Master’s graduate in IT Management (Dec '24, Concordia University)<br>💼 Ex-TCS | Experienced in backend services, microservices, and cloud solutions<br>🤝 Open to full-time Software Engineering roles
+💻 Software Engineer with 2+ years of experience in Java, Spring Boot, React and AWS<br>🎓 Master’s graduate in IT Management (Dec '24, Concordia University)<br>💼 Ex-TCS | Experienced in backend services, microservices, and cloud solutions<br>🤝 Open to full-time Software Engineering roles
 
 
 ## 🌐 Socials:
